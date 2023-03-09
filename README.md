@@ -11,5 +11,5 @@ Email：<chuanwei.syu@gmail.com></p>
 ![image](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_1/plot1.png)
 可以看出，美國大學學費一年比一年貴，雖然有通貨膨脹的因素存在，但依然慘烈。</p>
 ![image](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_1/plot2.png)
-美國中西部地區是一個洗洋學歷的好去處……反正台灣的傻逼人資看到英文就高潮</p>
+美國中西部地區是一個洗洋學歷的好去處……反正台灣的傻逼人資看到英文畢業證書就高潮。</p>
 ### 專題連結區
