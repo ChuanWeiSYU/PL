@@ -13,5 +13,8 @@ Email：<chuanwei.syu@gmail.com></p>
 ![image](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_1/plot2.png)
 美國中西部地區是一個洗洋學歷的好去處……反正台灣的傻逼人資看到英文畢業證書就高潮。</p>
 備註：該圖片可能要多Run幾次才會出得來。
-#### 作業三：學士、碩士、博士和教授們作息時間有何差異：以PPT發文時間進行統計
+#### 作業三：學士、碩士、博士和教授們作息時間有何差異：以PPT發文時間進行統計[點我觀看](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_3/HW3_60971032H.ipynb)
+透過爬取PTT的四個版的發文時間，各取最新的169篇文章的時間戳記，來分別以長條圖代表學士、碩士、博士與博士畢業後可能的生活習慣。
+![image](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_3/%E5%AD%B8%E5%A3%AB%E6%AC%A1%E6%95%B8%E5%88%86%E9%85%8D.png)
+這張圖是以網拍版(e-shopping)的發文時間作為基礎，主要原因是因為大學並沒有專版，事實上我有考慮過LoL和韓劇版(KoreaDrama)來分別抓取男女大學生，但後面想想太麻煩了所以作罷。
 ### 專題連結區
