@@ -14,7 +14,7 @@ Email：<chuanwei.syu@gmail.com></p>
 美國中西部地區是一個洗洋學歷的好去處……反正台灣的傻逼人資看到英文畢業證書就高潮。</p>
 備註：該圖片可能要多Run幾次才會出得來。
 #### 作業三：學士、碩士、博士和教授們作息時間有何差異：以PPT發文時間進行統計！[點我觀看](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_3/HW3_60971032H.ipynb)
-透過爬取PTT的四個版的發文時間，各取最新的169篇文章的時間戳記，來分別以長條圖代表學士、碩士、博士與博士畢業後可能的生活習慣。</p>
+透過爬取PTT的四個版的發文時間，各取最新的169篇(事實上可以更多，但受限於執行時間和電腦機能)文章的時間戳記，來分別以長條圖代表學士、碩士、博士與博士畢業後可能的生活習慣。</p>
 ![image](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_3/%E5%AD%B8%E5%A3%AB%E6%AC%A1%E6%95%B8%E5%88%86%E9%85%8D.png)</p>
 這張圖是大學生的發文時間，我們大概可以發現，發文划手機的時間集中在下午4:00左右，基本上這是個整天課上到累了的時間；另外，這爬蟲數據以網拍版(e-shopping)的發文時間作為基礎，主要原因是因為大學並沒有專版，事實上我有考慮過LoL和韓劇版(KoreaDrama)來分別抓取男女大學生，但後面想想太麻煩了所以作罷。</p>
 ![image](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_3/%E7%A2%A9%E5%A3%AB%E6%AC%A1%E6%95%B8%E5%88%86%E9%85%8D.png)</p>
