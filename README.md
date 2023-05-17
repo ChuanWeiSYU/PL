@@ -26,7 +26,7 @@ Email：<chuanwei.syu@gmail.com></p>
 #### 作業四：博恩為什麼會紅？透過Youtube字幕檔案作為分析焦點，進行視覺化分析~[點我觀看](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_4/HW4_60971032H.ipynb)
 ![image](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_4/%E8%BC%B8%E5%87%BA%E6%AA%94%E6%A1%88.png)</p>
 以上分析是根據四篇「欸！」的專題，來跑出的文字雲，可見博恩在說話時，非常常使用你、我、他、我們、大家這類「人稱代名詞」或者「群體名詞」，同時口條中夾雜大量語助詞，如怎麼、什麼、這個。
-其實可以了解，一個生動的知識性演講，絕非通篇都是足以讓人暈厥的資訊量，而是善用比喻、透過實例讓大家理解才是正確的做法！
+其實可以了解，一個生動的知識性演講，絕非通篇都是足以讓人暈厥的資訊量，而是善用比喻、透過實例讓大家理解才是正確的做法！</p>
 ←這篇文章解釋了我對於文字探勘和文字雲的理解，老實說，我不寫是因為我不想讓我的個人平台有兩篇差不多的文章，不然好像我在水字數，沒拿到分數我其實可接受~
 #### 作業五：博恩四個「欸！」系列的主題分析~[點我觀看](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_5/HW5_60971032H.ipynb)
 ![image](https://github.com/ChuanWeiSYU/PL/blob/main/HomeWork_5/HW5_output.png)</p>
