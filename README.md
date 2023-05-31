@@ -33,3 +33,4 @@ Email：<chuanwei.syu@gmail.com></p>
 我們發現，我們所用來分析的四個欸主題中「苗栗國、宗教團體與恐龍法官」所使用的用詞是相對較為接近的，其中尤其是宗教團體與苗栗國，幾乎可以說是完全重疊，唯一比較脫離群體的主題是：「死刑執行」，我想應該是因為討論到這個容易被炎上的主題，稿子必須「字斟句酌」一點，絕對不能用他平常的口條來脫稿演出，因此我相信這個分析結果是有道理的。</p>
 [點我看文章](https://www.linkedin.com/pulse/%E9%80%8F%E9%81%8E%E9%9B%BB%E8%85%A6%E8%87%AA%E5%8B%95%E5%AF%A6%E7%8F%BE%E6%96%87%E7%AB%A0%E7%9A%84%E4%B8%BB%E9%A1%8C%E5%88%86%E6%9E%90thematic-analysis-%E5%82%B3%E5%81%89-%E8%A8%B1)
 ### 專題連結區
+[![Watch the video](https://github.com/ChuanWeiSYU/DS/blob/main/589.%20N-ary%20Tree%20Preorder%20Traversal.png)](https://drive.google.com/file/d/1D9vnI0SHjae8FgWdglwaMkwoDR_wVowv/view?usp=sharing)
